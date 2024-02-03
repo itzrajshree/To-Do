@@ -1,22 +1,22 @@
- **# Todo Application**
+ **Todo Application**
 
-**## Overview**
+**Overview**
 
 This is a simple command-line todo application built using Python and JSON to manage your tasks effectively.
 It allows you to create and view your to-dos.
 
-**## Features**
+**Features**
 
 - **Add a new todo**
 - **List all todos**
 - **Save todos to a JSON file**
 - **Load todos from a JSON file**
 
-**## Prerequisites**
+**Prerequisites**
 
 - Python 3.x
 
-**## Installation**
+**Installation**
 
 1. Clone this repository:
 
@@ -30,7 +30,7 @@ It allows you to create and view your to-dos.
    cd To-Do
    ```
 
-**## Contributing**
+**Contributing**
 
 Feel free to contribute to this project!
 
