@@ -1,0 +1,56 @@
+[
+    {
+        "userId": 1,
+        "id": 1,
+        "title": "Code the TTL homework assignment",
+        "completed": true
+    },
+    {
+        "userId": 1,
+        "id": 2,
+        "title": "Write the code in the lab manual",
+        "completed": false
+    },
+    {
+        "userId": 21,
+        "id": 5,
+        "title": "Complete CD questions",
+        "completed": false
+    },
+    {
+        "userId": 21,
+        "id": 6,
+        "title": "Make dry fruit box",
+        "completed": true
+    },
+    {
+        "userId": 21,
+        "id": 7,
+        "title": "Learn Japanese",
+        "completed": true
+    },
+    {
+        "userId": 21,
+        "id": 7,
+        "title": "Eat bananas",
+        "completed": false
+    },
+    {
+        "userId": 1,
+        "id": 5,
+        "title": "Buy Keychain",
+        "completed": true
+    },
+    {
+        "userId": 1,
+        "id": 9,
+        "title": "Charge Phone",
+        "completed": true
+    },
+    {
+        "userId": 1,
+        "id": 10,
+        "title": "Practice LL1 Parsing Questions",
+        "completed": false
+    }
+]
